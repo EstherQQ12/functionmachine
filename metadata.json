@@ -1,0 +1,6 @@
+{
+  "name": "Function Machine",
+  "description": "Interactive mathematical function machine with multi-step operations, reverse solver, input-output table, and X-Y coordinate graphing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
